@@ -1,0 +1,35 @@
+top 5 of 1-gram
+token: the, frequency: 6522
+token: to, frequency: 2348
+token: was, frequency: 2316
+token: you, frequency: 1011
+token: your, frequency: 166
+-------------------
+top 5 of 2-gram
+token: of the, frequency: 731
+token: was a, frequency: 217
+token: with a, frequency: 152
+token: with the, frequency: 131
+token: would be, frequency: 78
+-------------------
+top 5 of 3-gram
+token: . it was, frequency: 220
+token: o ' brien, frequency: 205
+token: there was a, frequency: 82
+token: winston ' s, frequency: 72
+token: with a sort, frequency: 21
+-------------------
+top 5 of 4-gram
+token: , ' he said, frequency: 75
+token: - - - -, frequency: 47
+token: said o ' brien, frequency: 36
+token: with a sort of, frequency: 20
+token: you don ' t, frequency: 8
+-------------------
+top 5 of 5-gram
+token: , ' he said ., frequency: 40
+token: , ' said o ', frequency: 34
+token: o ' brien ' s, frequency: 28
+token: said o ' brien ., frequency: 18
+token: say the bells of st, frequency: 10
+-------------------
